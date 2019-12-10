@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\Assignment3 Solution\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Assignment3 Solution\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
